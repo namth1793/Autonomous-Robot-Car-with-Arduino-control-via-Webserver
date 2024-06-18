@@ -1,0 +1,3 @@
+- This is a small project which I have made a small arduino car and it can detect obstacles and avoid it automatically.
+- The main code inside the file main.ino.
+- I have learned to make it from this page: https://marobotic.com/2023/11/12/obstacle-avoiding-robot-using-arduino-uno-and-l293d-with-hc-sr04-sensor/
